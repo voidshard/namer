@@ -1,0 +1,14 @@
+{
+    "fantasy-elf01": {
+        "name": "/character_names.elf01.json",
+        "town": "/town_names.elf01.json",
+        "place": "/places.elf01.json",
+        "river": "/rivers.elf01.json"
+    }, 
+    "fantasy-human01": {
+        "name": "/character_names.human01.json",
+        "town": "/town_names.human01.json",
+        "place": "/places.human01.json",
+        "river": "/rivers.human01.json"
+    }
+}
